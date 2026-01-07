@@ -4,4 +4,4 @@
 
 [💻Baekjoon Profile](https://www.acmicpc.net/user/moonong)
 
-[![SolveSQL](https://img.shields.io/badge/SolveSQL-Advanced%20SQL-success)](https://solvesql.com)
+[![SolveSQL](https://img.shields.io/badge/SolveSQL-Profile-2E8B57?style=flat-square)](https://solvesql.com)
